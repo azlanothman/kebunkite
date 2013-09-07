@@ -1,6 +1,6 @@
 <?php
 
-  echo "Server is Running Smoothly n Nicely";
+  echo "Server is Running Smoothly n Nicely Done";
 
 
 ?>
